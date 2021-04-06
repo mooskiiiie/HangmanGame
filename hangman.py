@@ -313,9 +313,6 @@ main(score1, score2, new)
 
     
 
-# Sources:
-#    - discussions with Sir Albert Medalla
-#    - https://stackoverflow.com/questions/8924173/how-do-i-print-bold-text-in-python
 
         
 
