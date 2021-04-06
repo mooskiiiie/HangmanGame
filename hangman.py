@@ -1,23 +1,3 @@
-# Pauline Cortez - 195920
-# Sebastian Vergara - 196001
-# April 3, 2021
-
-# We certify that this submission complies with the DISCS Academic Integrity
-# Policy.
-
-# If we have discussed mour Python language code with anyone other than
-# our instructor, our groupmate, the teaching assistant,
-# the extent of each discussion has been clearly noted along with a proper
-# citation in the comments of my/our program.
-
-# If any Python language code or documentation used in our program
-# was obtained from another source, either modified or unmodified, such as a
-# textbook, website, or another individual, the extent of its use has been
-# clearly noted along with a proper citation in the comments of my/our program.
-
-################################################################################
-
-
 import random
 import time
 
